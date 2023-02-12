@@ -1,0 +1,61 @@
+
+
+Working at Atlassian
+
+Atlassian can hire people in any country where we have a legal entity. Assuming you have eligible working rights and a sufficient time zone overlap with your team, you can choose to work remotely or return to an office as they reopen (unless it’s necessary for your role to be performed in the office). Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
+
+Do you get excited by the challenge of scaling a fast-growing company through analytics insight and data science solutions? Do you find it rewarding to navigate through complexity and problems nobody has had solutions for? Are you enthusiastic about experimentation, fast learning and new ideas?
+
+We're looking for someone to grow a motivated team with a passion to solve business problems with advanced analytics. You and your team will be the strategic partners with senior business leaders, identify opportunities and problems, test hypotheses, build analytics and data science solutions, and surface insights to lead transformative changes.
+
+More about you:
+
+    You have a background in applied statistics, economics or a related quantitative field.
+    You are comfortable with complexity, and you have experience working with senior leaders and multiple teams.
+    You have expertise in using data science to guide understanding, progression, insights for large organizations.
+
+In this role you will get to:
+
+    Lead a team of BI developers and data scientists that provide operational metrics, strategic insights, and ad hoc analysis to promote decision-making at executive level of CSS.
+    Partner with CSS executives and collaborate with team members to determine the right KPIs, information and insights that increases the efficiency of CSS.
+    Lead senior managers
+    Partner with teams to lead transformative projects and make impact.
+    Be the expert to build analytics strategy, provide transparency of roadmap, and lead sprint planning.
+    Build shared vision, empower a team of missionaries, and deliver high quality outcomes.
+    Create relevant analytics insights, build data science solutions, and measure the impact.
+    Manage roadmaps, sprint planning, partner engagement, and remove blockers when needed.
+    Share complex ideas simply, advocate team's work and coach data storytelling.
+
+On your first day, we'll expect you to have:
+
+    8+ years experience of management experience
+    15+ years experience in business intelligence, data engineering and data science field
+    Success at hiring and growing a global team remotely
+    Help your team identify the right problem to solve when there is complexity
+    Success at building a culture of data-informed decision-making, fast learning, and progress
+    A technical background in visualization tools such as Tableau, statistics, measurement, experimentation, modeling, SQL, R/Python, data instrumentation
+    Experience applying advanced analytics knowledge to the real world
+    Roadmap planning, sprint planning, and project management skills
+
+It's great, but not required, if you have:
+
+    Experience in B2B, customer support, customer success
+    Experience in product analytics, people analytics
+    Experience with large data sets and distributed computing (Hive/Hadoop)
+    Experience in using Jira, Team Central, Confluence to manage and share team's work
+
+More about our team:
+
+    We are a growing analytics and project delivery team located in multiple regions across the globe. We challenge each other always to improve our work and ask hard questions. We're direct, and demand excellence, but there's laughter in every meeting because we thoroughly enjoy the work we do and the impact it has. We're constantly learning new things.
+
+#LI-WE1
+
+Our perks & benefits
+
+To support you at work and play, our perks and benefits include ample time off, an annual education budget, paid volunteer days, and so much more.
+
+About Atlassian
+
+The world’s best teams work better together with Atlassian. From medicine and space travel, to disaster response and pizza deliveries, Atlassian software products help teams all over the planet. At Atlassian, we're motivated by a common goal: to unleash the potential of every team.
+
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.

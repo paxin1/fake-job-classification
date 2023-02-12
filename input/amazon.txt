@@ -1,0 +1,51 @@
+Senior Software Development Engineer
+
+DESCRIPTION
+
+Ring is looking for experienced Senior Software Development Engineer to join our Development Team, working on Ring home security systems.
+
+What will you help us create? As a Senior Software Development Engineer you will be responsible for cutting-edge, large-scale cloud services that will be used by millions of Ring customers worldwide. This position gives you an opportunity to work with world-class engineers and to build cloud systems to support millions of devices. The role will entail working with cloud services for innovative capabilities on Ring security devices and continuing development of Ring infrastructure. This position involves design, architecture, development and operations of cloud systems. You will be mentoring and guiding other talented engineers on the team on complex projects.
+
+We are looking for talented specialist with strong technical background, customer obsession and experience in building distributed systems. Strong judgment and communication skills, long-term technical vision, and continuous focus on engineering and operational excellence, are essential for success.
+
+This role can be based in Gdansk, Krakow or Warsaw.
+
+Key job responsibilities
+
+    design and document distributed systems and microservices,
+    implement robust and maintainable code with clear and maintained documentation,
+    deliver customer value in iterative fashion while working towards longer term systems to solve roadmap goals with increasing efficiency,
+    serve as a technical lead and own projects end-to-end,
+    communicate status and changes to the work they are responsible and accountable for, keep all stakeholders informed of changes and updates to original plan,
+    serve as a technical mentor for other engineers on the team,
+    design test automation on all code implemented through unit testing and integration testing,
+    work with internal and external teams to bring Ring technology to market,
+    maintain and enhance software frameworks for development.
+
+
+About the team
+You will join a growing team with the opportunity for you to greatly impact its shape and charter!
+
+With your peers you will work on large scale distributed cloud systems (predominantly in Java, Golang and Python), as well as undertaking feasibility studies to design cloud software solutions. You will drive key aspects of product definition, execution, tests, as well own deployment, operation and scaling of our always-on distributed systems that serve Ring customers worldwide.
+
+BASIC QUALIFICATIONS
+
+    Bachelor’s degree in computer science or a related field, or equivalent work experience,
+    5+ years of experience working on production systems,
+    5+ years of experience working with OO design/ principles,
+    5+ years of experience working with RESTful architecture for web services,
+    5+ years of experience in a variety of modern programming languages (Java, Golang and/or Python) and open-source technologies (Linux, Kafka, etc.).
+
+PREFERRED QUALIFICATIONS
+
+    Master’s degree in computer science or related field,
+    experience working with cloud technologies, particularly AWS services (CloudFormation, ELB, DynamoDB, CloudWatch, etc.)
+    experience working with cloud services and an understanding of design for scalability, performance, and reliability,
+    strong communication and interpersonal skills,
+    knowledge of professional engineering practices and best practices for full SDLC, including coding standards, code reviews, source control management, continuous deployments, testing, and operations,
+    excellence in technical communication with peers and remote teams, both technical and non-technical,
+    understanding of computer science fundamentals, including data structures, algorithms, and systems design.
+
+
+
+Amazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build. Protecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.
